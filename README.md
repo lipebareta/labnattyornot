@@ -25,29 +25,27 @@ As descrições dos prompts e os critérios de criação estão em [`prompts/pro
 
 ## 🚀 Resultados
 
+Foram produzidas quatro imagens com IA durante o desafio. Nesta versão do repositório, os arquivos de imagem não estão anexados; os resultados são descritos abaixo e os briefings de criação estão documentados em [`prompts/prompts-utilizados.md`](prompts/prompts-utilizados.md).
+
 ### 1. Logística atual
 
 Caminhão de carga em rodovia brasileira ao pôr do sol, com foco em realismo fotográfico.
 
-![Caminhão em rodovia rural ao pôr do sol, gerado por IA](imagens/logistica-atual.png)
 
 ### 2. Centro de distribuição inteligente
 
 Centro logístico moderno com docas, caminhões, movimentação de cargas e elementos visuais sobre IA.
 
-![Centro de distribuição inteligente gerado por IA](imagens/centro-distribuicao.png)
 
 ### 3. Transporte do futuro
 
 Conceito de caminhão elétrico e autônomo, acompanhado por indicadores e interfaces futuristas.
 
-![Caminhão futurista com interface digital gerado por IA](imagens/transporte-futuro.png)
 
 ### 4. Gestão inteligente de rotas
 
 Interior de caminhão com motorista e painel conceitual de planejamento de viagens assistido por IA.
 
-![Motorista com painel de gestão inteligente de rotas gerado por IA](imagens/gestao-rotas.png)
 
 ## 💭 Reflexão
 
